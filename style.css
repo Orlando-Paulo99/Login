@@ -1,0 +1,27 @@
+form{
+    width: 300px;
+    margin: 200px auto;
+    text-align: center;
+}
+
+body{
+    background-color:black;
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+    margin: 0;
+}
+
+.botao{
+    
+}
+
+form h3{
+    color:aqua;
+}
+form h4{
+    color: antiquewhite;
+}
+div1{
+    padding: auto;
+}
